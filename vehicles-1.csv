@@ -1,0 +1,61 @@
+Vehicle_ID,Vehicle_Type,Capacity_Tons,Transporter_ID,Transporter_Name
+VH001,Container 20ft,18,TR16,Shakti Road Carriers
+VH002,Container 32ft MXL,28,TR06,Ganesh Roadlines
+VH003,Trailer 40ft,35,TR17,United Freight Corporation
+VH004,Container 20ft,18,TR06,Ganesh Roadlines
+VH005,Trailer 40ft,35,TR08,Kaveri Cargo Movers
+VH006,Open Truck 10 Tyre,16,TR12,Trident Transport Services
+VH007,Open Truck 10 Tyre,16,TR03,Vishal Transport Co.
+VH008,Container 32ft MXL,28,TR11,Reliable Roadways
+VH009,Container 32ft SXL,22,TR10,Metro Freight Carriers
+VH010,Open Truck 6 Tyre,9,TR15,Apex Logistics India
+VH011,Container 32ft MXL,28,TR18,Deccan Transport Co.
+VH012,Open Truck 10 Tyre,16,TR12,Trident Transport Services
+VH013,Container 32ft MXL,28,TR08,Kaveri Cargo Movers
+VH014,Open Truck 6 Tyre,9,TR08,Kaveri Cargo Movers
+VH015,Container 32ft MXL,28,TR08,Kaveri Cargo Movers
+VH016,Container 32ft MXL,28,TR15,Apex Logistics India
+VH017,Container 32ft MXL,28,TR06,Ganesh Roadlines
+VH018,Container 32ft SXL,22,TR04,National Freight Movers
+VH019,Container 20ft,18,TR07,Om Sai Transport
+VH020,Container 32ft MXL,28,TR01,Bharat Road Carriers
+VH021,Open Truck 10 Tyre,16,TR02,Shree Balaji Logistics
+VH022,Container 32ft MXL,28,TR02,Shree Balaji Logistics
+VH023,Container 32ft SXL,22,TR14,Coastal Cargo Carriers
+VH024,Container 20ft,18,TR14,Coastal Cargo Carriers
+VH025,Container 32ft SXL,22,TR13,Punjab Truck Union
+VH026,Container 32ft SXL,22,TR09,Sunrise Logistics Solutions
+VH027,Open Truck 6 Tyre,9,TR13,Punjab Truck Union
+VH028,Open Truck 6 Tyre,9,TR03,Vishal Transport Co.
+VH029,Open Truck 10 Tyre,16,TR17,United Freight Corporation
+VH030,Open Truck 6 Tyre,9,TR10,Metro Freight Carriers
+VH031,Container 20ft,18,TR17,United Freight Corporation
+VH032,Container 32ft MXL,28,TR03,Vishal Transport Co.
+VH033,Container 32ft SXL,22,TR09,Sunrise Logistics Solutions
+VH034,Container 20ft,18,TR13,Punjab Truck Union
+VH035,Trailer 40ft,35,TR09,Sunrise Logistics Solutions
+VH036,Container 32ft SXL,22,TR09,Sunrise Logistics Solutions
+VH037,Open Truck 6 Tyre,9,TR03,Vishal Transport Co.
+VH038,Container 32ft MXL,28,TR07,Om Sai Transport
+VH039,Container 32ft SXL,22,TR05,Speedway Logistics Pvt Ltd
+VH040,Container 32ft SXL,22,TR06,Ganesh Roadlines
+VH041,Container 32ft SXL,22,TR13,Punjab Truck Union
+VH042,Container 32ft SXL,22,TR12,Trident Transport Services
+VH043,Open Truck 6 Tyre,9,TR11,Reliable Roadways
+VH044,Container 32ft SXL,22,TR07,Om Sai Transport
+VH045,Container 32ft MXL,28,TR18,Deccan Transport Co.
+VH046,Open Truck 10 Tyre,16,TR02,Shree Balaji Logistics
+VH047,Container 32ft SXL,22,TR07,Om Sai Transport
+VH048,Open Truck 6 Tyre,9,TR03,Vishal Transport Co.
+VH049,Container 20ft,18,TR07,Om Sai Transport
+VH050,Container 20ft,18,TR18,Deccan Transport Co.
+VH051,Trailer 40ft,35,TR07,Om Sai Transport
+VH052,Open Truck 10 Tyre,16,TR17,United Freight Corporation
+VH053,Open Truck 10 Tyre,16,TR09,Sunrise Logistics Solutions
+VH054,Container 20ft,18,TR13,Punjab Truck Union
+VH055,Trailer 40ft,35,TR09,Sunrise Logistics Solutions
+VH056,Trailer 40ft,35,TR05,Speedway Logistics Pvt Ltd
+VH057,Open Truck 6 Tyre,9,TR14,Coastal Cargo Carriers
+VH058,Open Truck 10 Tyre,16,TR18,Deccan Transport Co.
+VH059,Container 32ft MXL,28,TR05,Speedway Logistics Pvt Ltd
+VH060,Open Truck 6 Tyre,9,TR15,Apex Logistics India
