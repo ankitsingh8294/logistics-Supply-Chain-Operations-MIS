@@ -118,29 +118,6 @@ Based on the generated dataset (full date range, all filters cleared):
 - **Streamlit** — dashboard framework
 - **Plotly Express** — charts
 
-## Project Structure
-
-```
-logistics-supply-chain-operations-mis/
-│
-├── README.md
-├── requirements.txt
-├── .gitignore
-│
-├── data/
-│   ├── logistics_transactions.csv
-│   ├── plants.csv
-│   ├── vehicles.csv
-│   ├── transporters.csv
-│   └── products.csv
-│
-├── dashboard/
-│   └── app.py
-│
-└── src/
-    └── generate_data.py
-```
-
 
 ## Limitations
 
